@@ -6,6 +6,4 @@ Please note: this design uses some advanced features of CSS and may not render c
 
 ## Example
 
-<p align="center">
-  <img src="img/example.png">
-</p>
+![example](img/example.png)
